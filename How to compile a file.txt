@@ -1,0 +1,10 @@
+How can I compile a file from notedad++?
+
+1. Create a folder in your PC.
+2.Sava your java program  by .java // HelloWorld.java
+3.Open your folder
+4.Take your carchor on folder box
+5.Write cmd
+
+6.Write (javac HelloWorld.java) //Here,HelloWorld is name of class
+7.Write (java HelloWorld) //Here,HelloWorld is name of class  
