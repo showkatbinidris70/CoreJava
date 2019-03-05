@@ -1,0 +1,69 @@
+1.Which of the following is true?
+a)Java programming language is a component of the JDK software.
+b)The JDK tools support the development of Java technology applications.
+c)Class is the primary building block of a java technology application.
+d)Java is not a class based programming language.
+Answer:b,c
+
+2.Which of the following is/are correct?
+a)JDK-Java Deployment kit
+b)JVM-Java Virtual Machine
+c)JPDA-Java Platform Debugger Architect
+d)CORBA-Common Object request broker architecture
+Answer:b,d
+
+3.The JDK tools classified into how many categories?
+a) 3
+b) 2
+c) 5
+d) 4
+Answer:b (basic, advanced)
+
+4.Which of the following is not JAva SE basic tool?
+a)java
+b)javadoc
+c)jbd
+d)jac
+Answer:c,d
+
+5.File,Reader,Writer are the sample classes of which library?
+a)java.text
+b)java.sql
+c)java.io
+d)java.swing
+Answer:c
+
+6.which is the sample class of java.lang?
+a)Collator
+b)JPanel
+c)Enum
+d)Date
+Answer:c
+
+7.How many tasks performed by the JVM implementation?
+a) 2
+b) 3
+c) 4
+d) 5
+Answer:b
+
+8.When the path variable is not set properly to include the javac comiler, then which message will show?
+a)can't find class TestGreeting
+b)javac:Command not found
+c)Exception in thread "main"java.lang.NoSuchMethodError:main
+d)none
+Answer:b
+
+9.The main sections of a class document include which of the following?
+a)The class hierarchy
+b)A list of attributes
+c)A list of constructors
+d)A list of methods
+Answer:a,b,c,d
+
+10.Which of the following is not true?
+a)The first generation of JVM implementations compile the byte code.
+b)The latest generation of JVM implementations interpreted the byte code.
+c)The client VM is tuned for reducingstart-up time and memory footprint.
+d)The server VM is designed for maximum program execution speed
+Answer:a,b

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE student
+[
+	<!ELEMENT student (studentid, password, name, email, round)>
+	<!ELEMENT studentid (#PCDATA)>
+	<!ELEMENT password (#PCDATA)>
+	<!ELEMENT name (#PCDATA)>
+	<!ELEMENT email (#PCDATA)>
+	<!ELEMENT round (#PCDATA)>
+]>
+<student>
+	<studentid>123456</studentid>
+	<password>s123</password>
+	<name>Monirul</name>
+	<email>monirul@mail.com</email>
+	<round>34</round>
+</student>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<monirul:sketch xmlns:monirul="http://www.wrox.com/dtds/sketches">
+<monirul:circle radius="15" angle="0">
+<monirul:color R="150" G="250" B="100"/>
+<monirul:position x="30" y="50"/>
+</monirul:circle>
+</monirul:sketch>

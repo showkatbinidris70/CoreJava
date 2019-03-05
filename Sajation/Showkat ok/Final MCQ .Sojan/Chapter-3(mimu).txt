@@ -1,0 +1,99 @@
+1.Which of the following is not true?
+a)A package is a Java mechanism for organizing classes.
+b)A package provides a namespaces for the classes it contains.
+c)All class files in the same package are stored in the different directory.
+d)We can view a group of related classes organized into a package as a library.
+Ans : c
+
+2.If we want to import Date class which of the following statement is true?
+a)import java.util.Date
+b)import java.lang.Date
+c)import java.util.*
+d)import java.util.*
+Ans: a 
+
+3.Which of the following is true?
+a)Import statement are declared after the package statement.
+b)Import statement are declared after the class declaration.
+c)Classes in the same package are required to be imported.
+d) Import statement are required to import any classes from the java.lang package.
+Ans: a
+
+4.The syntax of Multiple field declarations of the same data type using a single declaration statement.
+a)data_type (identifier1+ identifier2+ identifier3);
+b)data_type  identifier1,identifier2,identifier3;
+c)both a and b
+d)none 
+Ans: b
+
+5.Eight primitive data type of Java programming language can be grouped into how many categories? 
+a) 2
+b) 4
+c) 6
+d) 8
+Ans: b
+
+6.In Java programming language short is the type of which category?
+a)Logical
+b)Textual
+c)Integral
+d)Floating point
+Ans: c
+
+7.Which is the length of short?
+a)8 bits
+b) 16 bits
+c) 32 bits
+d) 64bits
+Ans: b
+
+
+8.The range of int is
+a)0  to 216-1
+b)-213  to 213-1
+c) -231  to 231-1
+d) -216  to 216-1
+Ans: c
+
+
+9.A String literal is enclosed in
+a)Third bracket
+b)Single quote marks
+c) Double quote marks
+d)none
+Ans:  c
+
+10. In Java programming language, an identifier is a name given to a
+a)variable
+b)class
+c)method
+d)all of the above
+Ans: d
+
+11.Identifiers start with
+a)letter
+b)underscore
+c)dollar sign
+d)valid currency symbols
+Ans: all
+
+12.Which of the following is not valid identifier?
+a)user*name
+b) user_name
+c) $username
+d)_ user_name
+Ans: a
+
+13. In Java programming language which identifier is/are legal but not encouraged?
+a)identifier
+b) user_name
+c)_sys_var*
+d)$change
+Ans: d
+
+14.Which of the following is true?
+a) Default value of boolean data type is true
+b) Default value of byte data type is 0.0
+c) Default value of int data type is 0
+d) Default value of float data type is 0.0f
+Ans: c,d

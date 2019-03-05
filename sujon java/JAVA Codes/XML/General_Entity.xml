@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE proverb
+[
+	<!ENTITY name "Monirul Islam">
+	<!ENTITY dist "Satkhira">
+]
+>
+<proverb>
+	&name;
+	&dist;
+</proverb>

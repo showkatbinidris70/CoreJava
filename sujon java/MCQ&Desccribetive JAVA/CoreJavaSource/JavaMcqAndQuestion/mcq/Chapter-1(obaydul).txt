@@ -1,0 +1,100 @@
+1.JDK consists of the following components:-
+a.Java programming language 
+b. Tools and tools API.
+c.Deployment Technology 
+d. Java platform, Standard Edition libraries.
+
+ans: all
+
+2.JDK components are provided to support the development of Java technology application –
+a.The Java programming language 
+b. The JDK tools.
+c. The JDK library 
+d. only a+c.
+
+ans: a,b,c
+
+3.The primary building block of a java technology application is-
+a. class 
+b. a JDK  
+c. Standard Edition 
+d. deployment technologies.
+
+ans : class
+
+4.Basic tools use to –
+a. Create 
+b. build 
+c. execute 
+d. all of the above.
+
+ans : d
+
+5.	Java Basic tools –
+a. Javac 
+b. javadoc 
+c. jdb 
+d. jar
+
+ans : all 
+
+6. Advanced tool categories-
+a. Security tools 
+b. Java plug- in tools 
+c. Java web start tools 
+d. Experimental tools
+
+ans : all
+
+7. Sample selection of standard libraries and classes are-
+a. Java.lang 
+b. java.io 
+c. java.net 
+d. java.math
+
+ans : all
+
+8. The main sections of a class document include the following :-
+a. A list of attributes 
+b. A list of constructions 
+c. A list of methods 
+d. The class hierarchy.
+
+ans : all
+
+9. The double primitive data type are: -
+a. Char 
+b. byte 
+c. short 
+d. long.
+
+ans : 
+
+10. A Java technology class has two file formats:-
+a. Source file 
+b. class file 
+c. double primitive 
+d. all of  the above.
+
+ans :a,b 
+
+11.An object- oriented application presents ___________  views.
+a. Three 
+b. two 
+c. four 
+d. one
+
+12.To interact with an object, you need the following:-
+a. A reference to the object 
+b. The names of the accessible members of the object  
+c. only a 
+d. a+b.
+
+13.The relationship between a Java technology application, the JVM implementation ______________.
+a. Operating system (OS) 
+b. Hardware Platform 
+c. Frequently Asked Questions (FAQ) 
+d. all of above.
+
+ans : a,b
+	 

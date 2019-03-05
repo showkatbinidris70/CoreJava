@@ -1,0 +1,6 @@
+<!ELEMENT student (studentid, password, name, email, round)>
+<!ELEMENT studentid (#PCDATA)>
+<!ELEMENT password (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT round (#PCDATA)>

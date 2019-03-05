@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<!DOCTYPE student SYSTEM "studentD.dtd">
+<student>
+	<studentid>123456</studentid>
+	<password>s123</password>
+	<name>Monirul</name>
+	<email>monirul@mail.com</email>
+	<round>34</round>
+</student>

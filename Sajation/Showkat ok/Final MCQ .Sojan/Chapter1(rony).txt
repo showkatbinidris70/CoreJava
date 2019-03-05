@@ -1,0 +1,75 @@
+1. How many type of JDK software contain the components?
+a. 1
+b. 3
+c. 5
+d. 2
+Answer : b
+
+2. Which is true for JDK software contains the components
+a. Develop Java technology applications
+b. Depend Java technology applications
+c. Expand Java technology applications
+d. Execute Java technology applications
+Answer : a,d
+
+3. Which is true 
+a. Virtual Machine for the Java platformation (Java Virtual Machine (JVM))
+b. Virtual Machine for the Java libraries (Java Virtual Machine (JVM))
+c. Virtual Machine for the Java platform (Java Virtual Machine (JVM))
+d. Deployment applications
+e. Deployment technologies
+Answer : c,e
+
+4. Strictly speaking, the Java programming language is ____ component of the JDK software.
+a. not
+b. a
+c. not a
+d. the
+Answer : c
+
+5. What is the Java programming language?
+a. Concurrent
+b. Object-oriented language
+c. Class-based object-oriented language
+d. Strongly-purpose
+e. general-purpose
+Answer : a,c,e
+
+6. The primary building block of a Java technology application is a _____ ?
+a. Library
+b. Object
+c. Class
+d. programm
+Answer : c
+
+7. Which is true the compiler for the Java programming language
+a. java
+b. javac
+c. jdb
+d. jar
+Answer : b
+
+8. Which is true for the Java debugger
+a. java
+b. javac
+c. jdb
+d. jar
+Answer : c
+
+9. Which is Basic tools, these tools are the tools use to create, build, and execute Java technology applications
+a. javac tools
+b. java plug-in tools
+c. javadoc tools
+d. java deployment tools
+e. jar tools
+Answew : a,c,e
+
+10. Which is advance user tools
+a. API document generator tools
+b. Remote method invocation (RMI) tools
+c. Java plug-in tools
+d. Security tools
+Answer : b,c,d
+
+ 
+ 

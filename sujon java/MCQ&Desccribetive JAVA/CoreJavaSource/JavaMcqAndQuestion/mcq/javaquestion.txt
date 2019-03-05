@@ -1,0 +1,78 @@
+1. What is the meaning of the return data type void?
+a.	An empty memory space is returned so that the developers can utilize it.
+b.	void returns no data type.
+c.	void is not supported in Java
+d.	None of the above
+Ans :b
+
+2. A java applet is a restricted java application that executes in browser.
+a.	True
+b.	False
+Ans :a
+
+3. Which of the following statements is false about objects?
+a.	An instance of a class is an object
+b.	Objects can access both static and instance data
+c.	Object is the super class of all other classes
+d.	Objects do not permit encapsulation
+Ans :d
+
+4. Which methods can access to private attributes of a class?
+a.	Only Static methods of the same class
+b.	Only instances of the same class
+c.	Only methods those defined in the same class
+d.	Only classes available in the same package.
+Ans : c
+
+5. Which of the following is not a return type
+a.	boolean
+b.	void
+c.	public
+d.	Button
+Ans : b
+
+6. What is the data type for the number 9.6352?
+a.	float
+b.	double
+c.	Float
+d.	Double
+Ans :a
+ 
+7. What are Java Access Specifiers?
+a.	public
+b.	Protected
+c.	Private
+d.	Default
+e.	all of the above 
+Ans : e
+
+8. How many primitive data types in java.
+a.	4
+b.	8
+c.	2
+d.	6
+Ans : b
+
+9. An object is an alternative term for a class instance.
+a.	True
+b.	False
+Ans: a
+
+10. What are the deployment technologies?
+a.	Java plug in
+b.	Java web start
+c.	Both a and b
+d.	None of the above
+Ans : c 
+
+11. Java technology applications platform dependent.
+a.	True
+b.	False
+ans : a
+ 
+12.  Which of the following statements about the Java language is true?
+a.	Both procedural and OOP are supported in Java.
+b.	Java supports only procedural approach towards programming.
+c.	Java supports only OOP approach.
+d.	None of the above.
+ans : 
